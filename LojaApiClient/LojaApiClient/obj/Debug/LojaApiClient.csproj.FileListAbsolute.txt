@@ -1,0 +1,7 @@
+C:\Users\Allan\source\repos\WebApi\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.exe.config
+C:\Users\Allan\source\repos\WebApi\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.exe
+C:\Users\Allan\source\repos\WebApi\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.pdb
+C:\Users\Allan\source\repos\WebApi\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.csprojResolveAssemblyReference.cache
+C:\Users\Allan\source\repos\WebApi\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Allan\source\repos\WebApi\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.exe
+C:\Users\Allan\source\repos\WebApi\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.pdb
