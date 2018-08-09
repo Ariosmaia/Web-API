@@ -12,3 +12,10 @@ C:\Users\i3\Desktop\api\Web-API\LojaApiClient\LojaApiClient\obj\Debug\LojaApiCli
 C:\Users\i3\Desktop\api\Web-API\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.csproj.CoreCompileInputs.cache
 C:\Users\i3\Desktop\api\Web-API\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.exe
 C:\Users\i3\Desktop\api\Web-API\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.pdb
+C:\Users\i3\Desktop\desck10new\api\Web-API\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.exe.config
+C:\Users\i3\Desktop\desck10new\api\Web-API\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.exe
+C:\Users\i3\Desktop\desck10new\api\Web-API\LojaApiClient\LojaApiClient\bin\Debug\LojaApiClient.pdb
+C:\Users\i3\Desktop\desck10new\api\Web-API\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.csprojAssemblyReference.cache
+C:\Users\i3\Desktop\desck10new\api\Web-API\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.csproj.CoreCompileInputs.cache
+C:\Users\i3\Desktop\desck10new\api\Web-API\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.exe
+C:\Users\i3\Desktop\desck10new\api\Web-API\LojaApiClient\LojaApiClient\obj\Debug\LojaApiClient.pdb
