@@ -12,11 +12,8 @@ namespace LojaApiClient
     {
         static void Main(string[] args)
         {
-            string conteudo;
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://localhost:63440/api/Carrinho/200");
-            request.Method = "GET";
-            request.Accept = "application/xml";
-            request.ContentType = "application/xml";
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://localhost:63440/api/Carrinho/1/produto/3467");
+            request.Method = "DELETE";
 
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
             
